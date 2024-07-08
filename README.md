@@ -1,5 +1,5 @@
 
-![](https://avatars.githubusercontent.com/u/107103983?v=4)
+![](https://raw.githubusercontent.com/maheshmuttintidev/portfolio/master/apps/web/public/brand_banner.webp)
 
 My Name is Mahesh Muttinti and I'm a Full Stack Mobile and Web Application Developer. I'm from India, living in Hyderabad and currently working at Betalectic IT Projects Limited.
 
