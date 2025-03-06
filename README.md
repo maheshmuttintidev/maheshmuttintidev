@@ -1,55 +1,48 @@
+# Mahesh Muttinti
 
-![](https://raw.githubusercontent.com/maheshmuttintidev/portfolio/master/apps/web/public/brand_banner.webp)
+## Full Stack Mobile and Web Developer
 
-My Name is Mahesh Muttinti and I'm a Full Stack Mobile and Web Application Developer. I'm from India, living in Hyderabad.
+Hello! I'm **Mahesh Muttinti**, a Full Stack Developer specializing in Mobile and Web applications. Based in **Hyderabad, India**, I have a passion for building scalable and efficient digital solutions.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+---
 
-## &#x270d; Blog & Writing
+## Skills
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [maheshmuttintidev.in](https://maheshmuttintidev.in) as well as on  and [DEV.to](https://dev.to/maheshmuttinti).
+| **Technology/Tool**  | **Badge** |
+|----------------------|-----------|
+| JavaScript           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| TypeScript           | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| ReactJS              | ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| React Native         | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| Node.js              | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) |
+| Tailwind CSS         | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| Next.js              | ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| NestJS               | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) |
+| Postman              | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| XCode                | ![XCode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) |
+| Android Studio       | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+| AWS                  | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| Cloudflare           | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| Vercel               | ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) |
+| Render               | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |
+| Netlify              | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| AdSense              | ![AdSense](https://img.shields.io/badge/Google_AdSense-4285F4?style=for-the-badge&logo=google-adsense&logoColor=white) |
+| SEO                  | ![SEO](https://img.shields.io/badge/SEO-326CE5?style=for-the-badge&logo=google&logoColor=white) |
 
 
+---
 
-## &#x1f4c8; GitHub Stats
+## Portfolio Website
+
+Explore my work at [**maheshmuttintidev.in**](https://maheshmuttintidev.in)
+
+---
+
+## 📊 GitHub Stats
 
 <a href="https://github.com/maheshmuttintidev/maheshmuttintidev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmuttintidev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmuttintidev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e293b&langs_count=7" />
 </a>
 <a href="https://github.com/maheshmuttintidev/maheshmuttintidev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmuttintidev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmuttintidev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e293b" alt="Mahesh's GitHub Stats" />
 </a>
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/maheshmuttintidev/maheshmuttintidev/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/mmuttinti
-[2]: https://github.com/maheshmuttintidev
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/maheshmuttinti/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/maheshmuttinti/awesome-github-profile-readme -->
