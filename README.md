@@ -9,12 +9,12 @@ I build scalable, production-grade software with clean architecture.
 ## 🧠 Skills
 
 | Area | Technologies |
-|------|---------------|
-| **Frontend** | React, Next.js, React Native, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, NestJS, Express, REST |
-| **Database** | PostgreSQL, MongoDB |
+|------|-------------|
+| **Frontend**  | React, Next.js, React Native, TypeScript, Tailwind CSS |
+| **Backend**   | Node.js, NestJS, Express, REST |
+| **Database**  | PostgreSQL, MongoDB |
 | **DevOps / Cloud** | AWS (EC2, S3, Lambda, CloudWatch, Cognito, Amplify, Route 53, Nginx, PM2), Hostinger, Vercel, Render, Netlify |
-| **Tools** | Git, Postman, Xcode, Android Studio, Docker |
+| **Tools**     | Git, Postman, Xcode, Android Studio, Docker |
 
 ---
 
@@ -43,49 +43,105 @@ I build scalable, production-grade software with clean architecture.
 
 ---
 
+## 🤖 AI & Tools
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
+
+<!-- ChatGPT / OpenAI -->
+<img alt="ChatGPT (OpenAI)" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+
+<!-- Claude -->
+<img alt="Claude" src="https://img.shields.io/badge/Anthropic_Claude-3E2F8B?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+<!-- Perplexity (valid shields example) -->
+<img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" />
+
+<!-- Grok (X / grok) -->
+<img alt="Grok (xAI)" src="https://img.shields.io/badge/Grok-(xAI)-111111?style=for-the-badge&logo=x&logoColor=white" />
+
+<!-- GitHub Copilot -->
+<img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
+
+<!-- MCP (Model Context Protocol) - plain badge linking to spec -->
+<a href="https://modelcontextprotocol.io" title="Model Context Protocol (MCP)">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0A66C2?style=for-the-badge" />
+</a>
+
+<!-- IDEs / Tools -->
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-00C6FF?style=for-the-badge&logo=wakatime&logoColor=white" />
+
+</div>
+
+> Notes:
+> - MCP = Model Context Protocol (open standard for AI tool integrations). See modelcontextprotocol.io.
+
+
+---
+
 ## How I build the apps?
 
-### [Web App](https://github.com/maheshmuttintidev)
-- Full-stack web app built with Next.js and Node.js.
-- Uses PostgreSQL with Prisma ORM.
+### Web App  
+- Full-stack web app built with Next.js and Node.js.  
+- Uses PostgreSQL with Prisma ORM.  
 - Deployed on Vercel.
 
-### [Mobile App](https://github.com/maheshmuttintidev)
-- Cross-platform app using React Native and TypeScript.
-- Integrated Firebase for authentication and storage.
+### Mobile App  
+- Cross-platform app using React Native and TypeScript.  
+- Integrated Firebase for authentication and storage.  
 - Available for Android and iOS.
 
-### [API Service](https://github.com/maheshmuttintidev)
-- REST API built with ExpressJs, NestJS.
-- Uses JWT authentication and Redis caching.
+### API Service  
+- REST API built with ExpressJs / NestJS.  
+- Uses JWT authentication and Redis caching.  
 - Dockerized for easy deployment.
 
 ---
 
-## 🌐 Portfolio
-
+## 🌐 Portfolio  
 Visit: [https://maheshmuttinti.vercel.app](https://maheshmuttinti.vercel.app)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Activity
 
-<div align="center">
+<p align="left" style="display:flex;gap:12px;flex-wrap:wrap;">
+  <!-- GitHub stats (vercel) -->
+  <a href="https://github.com/maheshmuttintidev">
+    <img alt="Mahesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maheshmuttintidev&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maheshmuttintidev&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e293b" height="150" />
+  <!-- Top languages (vercel) -->
+  <a href="https://github.com/maheshmuttintidev">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmuttintidev&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmuttintidev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e293b&langs_count=7" height="150" />
+<p align="left" style="display:flex;gap:12px;flex-wrap:wrap;">
 
-</div>
+  <!-- Activity graph (Vercel fallback) -->
+  <img alt="Activity Graph (last 31 days)" src="https://github-readme-activity-graph.vercel.app/graph?username=maheshmuttintidev&bg_color=1e293b&line=2bbc8a&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<!-- Contribution heatmap (ghchart) -->
+<p>
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/maheshmuttintidev" />
+</p>
+
+<!-- WakaTime (recommended: use GitHub Action to generate these in your repo) -->
+<!-- <p>
+  <img alt="WakaTime - Weekly" src="./images/wakatime-weekly.svg" />
+  <img alt="WakaTime - Monthly" src="./images/wakatime-monthly.svg" />
+</p> -->
 
 ---
 
-## 📫 Contact
-
-- Email: [maheshmuttinti@gmail.com](mailto:maheshmuttinti@gmail.com)
-- GitHub: [github.com/maheshmuttintidev](https://github.com/maheshmuttintidev)
+## 📫 Contact  
+- Email: [maheshmuttinti@gmail.com](mailto:maheshmuttinti@gmail.com)  
+- GitHub: [github.com/maheshmuttintidev](https://github.com/maheshmuttintidev)  
 - Portfolio: [maheshmuttinti.vercel.app](https://maheshmuttinti.vercel.app)
 
 ---
 
 **Clean code. Real projects. Constant learning.**
+
