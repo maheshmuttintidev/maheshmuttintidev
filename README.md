@@ -1,8 +1,8 @@
 # Mahesh Muttinti
 
-Full Stack Developer focused on mobile and web applications.  
+React & React Native Developer with strong full-stack capabilities.  
 Based in Hyderabad, India.  
-I build production-grade apps with clear architecture and practical AI/vision integrations.
+I build clean, scalable mobile and web applications, and I’m comfortable handling backend APIs and cloud workflows when required.
 
 ---
 
@@ -10,12 +10,12 @@ I build production-grade apps with clear architecture and practical AI/vision in
 
 | Area | Technologies |
 |------|-------------|
-| **Frontend**  | React, Next.js, React Native, TypeScript, Tailwind CSS |
-| **Backend**   | Node.js, NestJS, Express, REST APIs |
-| **Database**  | MongoDB, PostgreSQL, Firebase Firestore, SQLite (on-device) |
+| **Primary Expertise (Frontend & Mobile)** | React, React Native, Next.js, TypeScript, Tailwind CSS |
+| **Backend (Supporting Skills)** | Node.js, NestJS, Express, REST APIs |
+| **Database** | MongoDB, PostgreSQL, Firebase Firestore, SQLite (on-device) |
 | **Cloud / Infra** | AWS (EC2, RDS, S3, Lambda, CloudWatch, Cognito, Route 53), Vercel, Render, Cloudflare, Docker |
-| **Mobile / Native** | Android (Kotlin bridges), iOS tooling, Play Store workflows |
-| **Tools & QA**     | Git, Postman, Jest, React Native Debugger, Chrome DevTools, Jira |
+| **Mobile / Native** | Android Kotlin bridges, iOS tooling, Play Store workflows |
+| **Tools & QA** | Git, Postman, Jest, React Native Debugger, Chrome DevTools, Jira |
 
 ---
 
@@ -42,51 +42,52 @@ I build production-grade apps with clear architecture and practical AI/vision in
 
 ## 🤖 AI & Vision
 
-I work with modern AI and vision APIs for product understanding and OCR:
+I integrate AI and computer vision into mobile and web apps:
 
-- OpenAI (text, embeddings, completions)
-- Grok AI API
-- Google Cloud Vision API
-- On-device scan history with SQLite
+- OpenAI APIs  
+- Grok AI API  
+- Google Cloud Vision API  
+- SQLite for on-device scan history  
+
+Used mainly for OCR, product understanding, and real-time recognition workflows.
 
 ---
 
 ## How I build apps
 
-### Web
-- Next.js for the frontend and static pages.
-- Node.js / NestJS for API services.
-- PostgreSQL or MongoDB as required.
-- Deploy on Vercel / Render. CI/CD via GitHub Actions or platform pipelines.
+### Web (Primary Frontend Work)
+- React & Next.js for UI, pages, and user flows.
+- Backend APIs with Node.js or NestJS when required.
+- MongoDB or PostgreSQL depending on the use case.
+- Vercel / Render deployments with CI/CD.
 
-### Mobile
-- Cross-platform apps with React Native and TypeScript.
-- Firebase for auth and optional cloud storage.
-- SQLite for local scan history and offline support.
-- Native modules via Kotlin bridges where needed.
-- Release builds and Play Store publication.
+### Mobile (Core Specialty)
+- React Native + TypeScript for cross-platform apps.
+- Firebase Authentication & Firestore for mobile workflows.
+- SQLite for offline data and scan history.
+- Native modules built with Kotlin bridges when needed.
+- Production builds and Play Store releases.
 
-### API & Infra
+### API & Infra (Supporting Skills)
 - REST APIs with Express or NestJS.
-- JWT auth and integrations for payments or notifications.
-- Dockerized services for staging and production.
-- AWS for infra components (RDS, S3, Lambda, CloudWatch, Cognito).
+- JWT authentication and role-based access.
+- Docker-based environments.
+- AWS for hosting, storage, auth, and monitoring.
 
 ---
 
 ## Featured project — Toss Recycling AI
 
-- Mobile app built in React Native.
-- Product and receipt scanning using OpenAI, Grok AI API, and Google Cloud Vision API.
-- Local scan history stored in SQLite for offline access.
-- Companion website built with Next.js for recycling guidance and awareness.
-- Live: https://www.tossrecycling.ai
+- React Native app for scanning recyclable items and receipts.
+- AI-powered recognition using OpenAI, Grok AI API, and Google Cloud Vision API.
+- Local scan history using SQLite.
+- Next.js website providing recycling information and awareness.
+- Live at: **https://www.tossrecycling.ai**
 
 ---
 
 ## Portfolio
 
-Visit my portfolio:  
 https://maheshmuttinti.vercel.app
 
 ---
@@ -111,10 +112,10 @@ https://maheshmuttinti.vercel.app
 
 ## Contact
 
-- Email: maheshmuttinti@gmail.com  
-- Portfolio: https://maheshmuttinti.vercel.app  
-- GitHub: https://github.com/maheshmuttintidev
+- Email: **maheshmuttinti@gmail.com**  
+- Portfolio: **https://maheshmuttinti.vercel.app**  
+- GitHub: **https://github.com/maheshmuttintidev**
 
 ---
 
-Clean code. Real projects. Continuous learning.
+**React. React Native. Clean Architecture. Real-world apps.**
